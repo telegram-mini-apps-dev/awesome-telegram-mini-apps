@@ -18,12 +18,12 @@ A curated list of awesome things related to Telegram Web Apps (TWA).
     - [Libraries](#libraries)
     - [Boilerplates](#boilerplates)
     - [UI \& Components](#ui--components)
+    - [Examples](#examples)
     - [Youtube](#youtube)
     - [Tutorials](#tutorials)
     - [Courses](#courses)
     - [Public Talks](#public-talks)
   - [Projects Using Telegram Web Apps](#projects-using-telegram-web-apps)
-    - [Open Source](#open-source)
     - [Commercial Products](#commercial-products)
 
 <!-- md-parser-start -->
@@ -50,6 +50,7 @@ A curated list of awesome things related to Telegram Web Apps (TWA).
 - [@twa-dev/SDK](https://github.com/twa-dev/SDK) — NPM package for TWA SDK
 - [@twa-dev/types](https://github.com/twa-dev/types) — Types for TWA SDK
 - [@twa-dev/Mark42](https://github.com/twa-dev/Mark42) — Simple lightweight tree-shakable UI library for TWA
+- [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) — Mono-repository, containing all the packages, connected with comfortable and safe TypeScript development on Telegram Web Apps platform.
 - [@ton-connect/sdk](https://github.com/ton-connect/sdk) — Implementation of the TonConnect protocol
 - [Flutter Telegram Web App](https://pub.dev/documentation/flutter_telegram_web_app/latest/)
 
@@ -64,9 +65,16 @@ A curated list of awesome things related to Telegram Web Apps (TWA).
 - [@tonconnect/ui-react](https://www.npmjs.com/package/@tonconnect/ui-react) — React UI kit for TonConnect SDK
 - [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) — UI kit for TonConnect SDK
 
-
+### Examples
+- [Next.js with Tailwind](https://github.com/mauriciobraz/next.js-telegram-webapp)
+- [aiogram TWA](https://github.com/abdullaev388/Telegram-Web-App)
+- [TWA date and time picker](https://github.com/Expented/tgdtp)
+- [TWA example with Python](https://github.com/poshl000/telegram-webapp-bot)
+- [TWA for Bots playground example](https://github.com/revenkroz/telegram-web-app-bot-example)
+- [TWA Playground example](https://github.com/mihailgok/telegramwebapps)
+- [Small TWA tutorial](https://github.com/mihailgok/telegramwebapps)
 ### Youtube
-- [Telegram Web Apps: tips and hacks | Arthur Stambultsyan](https://www.youtube.com/watch?v=amvZy9hzAic&t=2476s&pp=ygURdGVsZWdyYW0gd2ViIGFwcHM%3D)
+- [TWA: tips and hacks | Arthur Stambultsyan](https://www.youtube.com/watch?v=amvZy9hzAic&t=2476s&pp=ygURdGVsZWdyYW0gd2ViIGFwcHM%3D)
 - 🇷🇺 [СОЗДАЕМ упрощенный DURGER KING](https://www.youtube.com/watch?v=O1ZRJXKBa4U&pp=ygURdGVsZWdyYW0gd2ViIGFwcHM%3D)
 - 🇷🇺 [Web app TELEGRAM Бот на node js и React](https://www.youtube.com/watch?v=MzO-0IYkZMU&pp=ygURdGVsZWdyYW0gd2ViIGFwcHM%3D)
 - 🇷🇺 [Как открыть WebApp и запустить магазин в Телеграм канале](https://www.youtube.com/watch?v=nznt4-J-oHs&pp=ygURdGVsZWdyYW0gd2ViIGFwcHM%3D)
@@ -89,9 +97,6 @@ A curated list of awesome things related to Telegram Web Apps (TWA).
 
 
 ## Projects Using Telegram Web Apps
-
-### Open Source
-- 
 
 ### Commercial Products
 - [TON Play](https://tonplay.io/) — Toolkit that allows game developers to leverage the power of Telegram
