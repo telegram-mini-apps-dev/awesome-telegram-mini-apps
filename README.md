@@ -44,7 +44,7 @@ A curated list of awesome things related to Telegram Web Apps (TWA).
 
 - [Telegram Chat](https://t.me/twa_dev)
 - [GitHub TWA Community](https://github.com/twa-dev)
-- [GitHu TON Community](https://github.com/ton-community)
+- [GitHub TON Community](https://github.com/ton-community)
 
 ### Libraries
 - [@twa-dev/SDK](https://github.com/twa-dev/SDK) — NPM package for TWA SDK
@@ -56,7 +56,7 @@ A curated list of awesome things related to Telegram Web Apps (TWA).
 
 ### Boilerplates
 - [@twa-dev/Boilerplate](https://github.com/twa-dev/Boilerplate) — Liberal Create React App for TWA enthusiasts
-- [TON twa template](https://github.com/ton-community/twa-template)
+- [TON TWA template](https://github.com/ton-community/twa-template)
 - [@ton-defi-org/tonstarter-twa](https://github.com/ton-defi-org/tonstarter-twa) — Template for new TWA interaction with TON
 
 ### UI & Components
@@ -94,8 +94,9 @@ A curated list of awesome things related to Telegram Web Apps (TWA).
 - 
 
 ### Commercial Products
-- [TON Play](https://tonplay.io/) - Toolkit that allows game developers to leverage the power of Telegram
-— 🇷🇺 [Telegram Shops Platform](https://telegramwebapps.ru/)
+- [TON Play](https://tonplay.io/) — Toolkit that allows game developers to leverage the power of Telegram
+- 🇷🇺 [Telegram Shops Platform](https://telegramwebapps.ru/)
+
 
 
   <!-- md-parser-end -->
