@@ -66,6 +66,8 @@ A curated list of awesome things related to Telegram Web Apps (TWA).
 - [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) — UI kit for TonConnect SDK
 
 ### Examples
+- [React TWA Example](https://github.com/vkruglikov/react-telegram-web-app)
+- [TWA Shop Example](https://github.com/TheCymond/Telegram_Web_App/ga)
 - [Next.js with Tailwind](https://github.com/mauriciobraz/next.js-telegram-webapp)
 - [aiogram TWA](https://github.com/abdullaev388/Telegram-Web-App)
 - [TWA date and time picker](https://github.com/Expented/tgdtp)
