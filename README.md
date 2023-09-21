@@ -57,7 +57,9 @@ A curated list of awesome things related to Telegram Mini Apps (TMA).
 
 
 ### Boilerplates
-- [@twa-dev/Boilerplate](https://github.com/twa-dev/Boilerplate) — Liberal Create React App for Telegram Mini Apps enthusiasts
+- [@twa-dev/webpack-boilerplate](https://github.com/twa-dev/webpack-boilerplate) — Webpack-based modern boilerplate featuring based on React
+- [@twa-dev/vanilla-js-boilerplate](https://github.com/twa-dev/vanilla-js-boilerplate) — Basic and straightforward boilerplate based on simple web technologies: JavaScript, HTML, and CSS. 
+- [@twa-dev/vite-boilerplate](https://github.com/twa-dev/vite-boilerplate) — Vite is a modern frontend tool that offers several advantages over traditional build tools, including faster development times, smaller bundle sizes, and improved developer experience. It supports React, Vue, Svelte and many more.
 - [TON Telegram Mini Apps template](https://github.com/ton-community/twa-template)
 - [@ton-defi-org/tonstarter-twa](https://github.com/ton-defi-org/tonstarter-twa) — Template for new Telegram Mini Apps interaction with TON
 
