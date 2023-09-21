@@ -1,15 +1,15 @@
 <p align="center">
   <br>
-  <img width="240" src="./assets/tapps.png" alt="logo of telegram web apps">
+  <img width="240" src="./assets/tapps.png" alt="logo of Telegram Mini Apps">
   <br>
   <br>
 </p>
 
-# Awesome Telegram Web Apps
-A curated list of awesome things related to Telegram Web Apps (TWA).
+# Awesome Telegram Mini Apps
+A curated list of awesome things related to Telegram Mini Apps (TMA).
 
 ## Table of contents
-- [Awesome Telegram Web Apps](#awesome-telegram-web-apps)
+- [Awesome Telegram Mini Apps](#awesome-telegram-mini-apps)
   - [Table of contents](#table-of-contents)
   - [Resources](#resources)
     - [Official Resources](#official-resources)
@@ -23,7 +23,7 @@ A curated list of awesome things related to Telegram Web Apps (TWA).
     - [Tutorials](#tutorials)
     - [Courses](#courses)
     - [Public Talks](#public-talks)
-  - [Projects Using Telegram Web Apps](#projects-using-telegram-web-apps)
+  - [Projects Using Telegram Mini Apps](#projects-using-telegram-mini-apps)
     - [Commercial Products](#commercial-products)
 
 <!-- md-parser-start -->
@@ -43,22 +43,23 @@ A curated list of awesome things related to Telegram Web Apps (TWA).
 ### Community
 
 - [Telegram Chat](https://t.me/twa_dev)
-- [GitHub TWA Community](https://github.com/twa-dev)
+- [GitHub Telegram Mini Apps Community](https://github.com/twa-dev)
 - [GitHub TON Community](https://github.com/ton-community)
 
 ### Libraries
-- [@twa-dev/SDK](https://github.com/twa-dev/SDK) — NPM package for TWA SDK
-- [@twa-dev/types](https://github.com/twa-dev/types) — Types for TWA SDK
-- [@twa-dev/Mark42](https://github.com/twa-dev/Mark42) — Simple lightweight tree-shakable UI library for TWA
-- [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) — Mono-repository, containing all the packages, connected with comfortable and safe TypeScript development on Telegram Web Apps platform.
+- [@twa-dev/SDK](https://github.com/twa-dev/SDK) — NPM package for Telegram Mini Apps SDK
+- [@twa-dev/types](https://github.com/twa-dev/types) — Types for Telegram Mini Apps SDK
+- [@twa-dev/Mark42](https://github.com/twa-dev/Mark42) — Simple lightweight tree-shakable UI library for Telegram Mini Apps
+- [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) — Mono-repository, containing all the packages, connected with comfortable and safe TypeScript development on Telegram Mini Apps platform.
 - [@ton-connect/sdk](https://github.com/ton-connect/sdk) — Implementation of the TonConnect protocol
-- [Flutter Telegram Web App](https://pub.dev/documentation/flutter_telegram_web_app/latest/)
+- [Flutter Telegram Mini App](https://pub.dev/documentation/flutter_telegram_web_app/latest/)
+- [Typings for Telegram Mini Apps](https://github.com/DavisDmitry/telegram-webapps/tree/master)
 
 
 ### Boilerplates
-- [@twa-dev/Boilerplate](https://github.com/twa-dev/Boilerplate) — Liberal Create React App for TWA enthusiasts
-- [TON TWA template](https://github.com/ton-community/twa-template)
-- [@ton-defi-org/tonstarter-twa](https://github.com/ton-defi-org/tonstarter-twa) — Template for new TWA interaction with TON
+- [@twa-dev/Boilerplate](https://github.com/twa-dev/Boilerplate) — Liberal Create React App for Telegram Mini Apps enthusiasts
+- [TON Telegram Mini Apps template](https://github.com/ton-community/twa-template)
+- [@ton-defi-org/tonstarter-twa](https://github.com/ton-defi-org/tonstarter-twa) — Template for new Telegram Mini Apps interaction with TON
 
 ### UI & Components
 - [Figma Telegram UI Components](https://www.figma.com/@firststagelabs)
@@ -66,17 +67,17 @@ A curated list of awesome things related to Telegram Web Apps (TWA).
 - [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) — UI kit for TonConnect SDK
 
 ### Examples
-- [React TWA Example](https://github.com/vkruglikov/react-telegram-web-app)
-- [TWA Shop Example](https://github.com/TheCymond/Telegram_Web_App/ga)
+- [React Telegram Mini Apps Example](https://github.com/vkruglikov/react-telegram-web-app)
+- [Telegram Mini Apps Shop Example](https://github.com/TheCymond/Telegram_Web_App/ga)
 - [Next.js with Tailwind](https://github.com/mauriciobraz/next.js-telegram-webapp)
-- [aiogram TWA](https://github.com/abdullaev388/Telegram-Web-App)
-- [TWA date and time picker](https://github.com/Expented/tgdtp)
-- [TWA example with Python](https://github.com/poshl000/telegram-webapp-bot)
-- [TWA for Bots playground example](https://github.com/revenkroz/telegram-web-app-bot-example)
-- [TWA Playground example](https://github.com/mihailgok/telegramwebapps)
-- [Small TWA tutorial](https://github.com/mihailgok/telegramwebapps)
+- [aiogram Telegram Mini Apps](https://github.com/abdullaev388/Telegram-Web-App)
+- [Telegram Mini Apps date and time picker](https://github.com/Expented/tgdtp)
+- [Telegram Mini Apps example with Python](https://github.com/poshl000/telegram-webapp-bot)
+- [Telegram Mini Apps for Bots playground example](https://github.com/revenkroz/telegram-web-app-bot-example)
+- [Telegram Mini Apps Playground example](https://github.com/mihailgok/telegramwebapps)
+- [Small Telegram Mini Apps tutorial](https://github.com/mihailgok/telegramwebapps)
 ### Youtube
-- [TWA: tips and hacks | Arthur Stambultsyan](https://www.youtube.com/watch?v=amvZy9hzAic&t=2476s&pp=ygURdGVsZWdyYW0gd2ViIGFwcHM%3D)
+- [Telegram Mini Apps: tips and hacks | Arthur Stambultsyan](https://www.youtube.com/watch?v=amvZy9hzAic&t=2476s&pp=ygURdGVsZWdyYW0gd2ViIGFwcHM%3D)
 - 🇷🇺 [СОЗДАЕМ упрощенный DURGER KING](https://www.youtube.com/watch?v=O1ZRJXKBa4U&pp=ygURdGVsZWdyYW0gd2ViIGFwcHM%3D)
 - 🇷🇺 [Web app TELEGRAM Бот на node js и React](https://www.youtube.com/watch?v=MzO-0IYkZMU&pp=ygURdGVsZWdyYW0gd2ViIGFwcHM%3D)
 - 🇷🇺 [Как открыть WebApp и запустить магазин в Телеграм канале](https://www.youtube.com/watch?v=nznt4-J-oHs&pp=ygURdGVsZWdyYW0gd2ViIGFwcHM%3D)
@@ -86,19 +87,19 @@ A curated list of awesome things related to Telegram Web Apps (TWA).
 
 ### Tutorials
 - [Step-by-Step guide to build a Telegram Chatbot with a simple WebApp UI using Python](https://medium.com/@calixtemayoraz/step-by-step-guide-to-build-a-telegram-chatbot-with-a-simple-webapp-ui-using-python-44dca453522f)
-- [Telegram Web App with React and Next.js](https://dev.to/bitofuniverse/telegram-web-app-with-react-and-nextjs-440i)
-- [Creation of telegram web apps and interaction with them in telegram bots](https://prog.world/creation-of-telegram-web-apps-and-interaction-with-them-in-telegram-bots/)
-- 🇷🇺 [Создание telegram web apps и взаимодействие с ними в телеграм ботах](https://habr.com/ru/articles/666278/)
+- [Telegram Mini App with React and Next.js](https://dev.to/bitofuniverse/telegram-web-app-with-react-and-nextjs-440i)
+- [Creation of Telegram Mini Apps and interaction with them in telegram bots](https://prog.world/creation-of-telegram-web-apps-and-interaction-with-them-in-telegram-bots/)
+- 🇷🇺 [Создание Telegram Mini Apps и взаимодействие с ними в телеграм ботах](https://habr.com/ru/articles/666278/)
 
 
 ### Courses
 - 🇷🇺 [Телеграм бот на Python](https://itproger.com/course/telegram-bot) — Представляем курс для начинающих по разработке Telegram ботов на Python. За курс вы с нуля научитесь создавать Телеграм ботов в разных жанрах и с использованием разных библиотек.
 
 ### Public Talks
-- 🇷🇺 [Telegram Web Apps: веб-приложения внутри Telegram](https://holyjs.ru/en/talks/7ce6dd405449413daf154fcd6a476fdb/)
+- 🇷🇺 [Telegram Mini Apps: веб-приложения внутри Telegram](https://holyjs.ru/en/talks/7ce6dd405449413daf154fcd6a476fdb/)
 
 
-## Projects Using Telegram Web Apps
+## Projects Using Telegram Mini Apps
 
 ### Commercial Products
 - [TON Play](https://tonplay.io/) — Toolkit that allows game developers to leverage the power of Telegram
