@@ -62,6 +62,7 @@ A curated list of awesome things related to Telegram Mini Apps (TMA).
 - [@twa-dev/vite-boilerplate](https://github.com/twa-dev/vite-boilerplate) — Vite is a modern frontend tool that offers several advantages over traditional build tools, including faster development times, smaller bundle sizes, and improved developer experience. It supports React, Vue, Svelte and many more.
 - [TON Telegram Mini Apps template](https://github.com/ton-community/twa-template)
 - [@ton-defi-org/tonstarter-twa](https://github.com/ton-defi-org/tonstarter-twa) — Template for new Telegram Mini Apps interaction with TON
+- [Telegram Onboarding Kit](https://github.com/Easterok/telegram-onboarding-kit)
 
 ### UI & Components
 - [Figma Telegram UI Components](https://www.figma.com/@firststagelabs)
@@ -69,15 +70,27 @@ A curated list of awesome things related to Telegram Mini Apps (TMA).
 - [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) — UI kit for TonConnect SDK
 
 ### Examples
-- [React Telegram Mini Apps Example](https://github.com/vkruglikov/react-telegram-web-app)
-- [Telegram Mini Apps Shop Example](https://github.com/TheCymond/Telegram_Web_App/ga)
+- [Example for booking hotels](https://github.com/vkruglikov/react-telegram-web-apphttps://github.com/neSpecc/telebook)
+- [Sticker Catalog](https://github.com/fstik-app/catalog)
+- [Chess multiplayer](https://github.com/Quatern1on/ChessNowBot)
+- [Demo flow for ride requests](https://github.com/ArashYounesi/TRide)
+- [One-time 2FA password generator](https://github.com/UselessStudio/TeleOTP)
+- [Notes and to-do lists](https://github.com/deptyped/notepher-bot)
+- [Paint Bot](https://github.com/hip-hyena/PaintBot)
+- [Call scheduling](https://github.com/arterialist/Callegram)
+- [Booking system for medical services](https://github.com/Latand/MedSyncWebApp)
+- [Dummy Wallet app](https://github.com/erfanmola/DPXWallet)
+- [Calculator](https://github.com/ArashYounesi/TCalculator)
+- [Wishlist](https://github.com/grulex/telegram-wishlist-miniapp)
+- [React Example](https://github.com/vkruglikov/react-telegram-web-app)
+- [Shop Example](https://github.com/TheCymond/Telegram_Web_App/ga)
 - [Next.js with Tailwind](https://github.com/mauriciobraz/next.js-telegram-webapp)
-- [aiogram Telegram Mini Apps](https://github.com/abdullaev388/Telegram-Web-App)
-- [Telegram Mini Apps date and time picker](https://github.com/Expented/tgdtp)
-- [Telegram Mini Apps example with Python](https://github.com/poshl000/telegram-webapp-bot)
-- [Telegram Mini Apps for Bots playground example](https://github.com/revenkroz/telegram-web-app-bot-example)
-- [Telegram Mini Apps Playground example](https://github.com/mihailgok/telegramwebapps)
-- [Small Telegram Mini Apps tutorial](https://github.com/mihailgok/telegramwebapps)
+- [aiogram](https://github.com/abdullaev388/Telegram-Web-App)
+- [Date and time picker](https://github.com/Expented/tgdtp)
+- [Example with Python](https://github.com/poshl000/telegram-webapp-bot)
+- [Bots playground example](https://github.com/revenkroz/telegram-web-app-bot-example)
+- [Playground example](https://github.com/mihailgok/telegramwebapps)
+- [Small tutorial](https://github.com/mihailgok/telegramwebapps)
 ### Youtube
 - [Telegram Mini Apps: tips and hacks | Arthur Stambultsyan](https://www.youtube.com/watch?v=amvZy9hzAic&t=2476s&pp=ygURdGVsZWdyYW0gd2ViIGFwcHM%3D)
 - 🇷🇺 [СОЗДАЕМ упрощенный DURGER KING](https://www.youtube.com/watch?v=O1ZRJXKBa4U&pp=ygURdGVsZWdyYW0gd2ViIGFwcHM%3D)
