@@ -54,6 +54,7 @@ A curated list of awesome things related to Telegram Mini Apps (TMA).
 - [@ton-connect/sdk](https://github.com/ton-connect/sdk) — Implementation of the TonConnect protocol
 - [Flutter Telegram Mini App](https://pub.dev/documentation/flutter_telegram_web_app/latest/)
 - [Typings for Telegram Mini Apps](https://github.com/DavisDmitry/telegram-webapps/tree/master)
+- [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang)
 
 
 ### Boilerplates
@@ -75,6 +76,7 @@ A curated list of awesome things related to Telegram Mini Apps (TMA).
 - [Chess multiplayer](https://github.com/Quatern1on/ChessNowBot)
 - [Demo flow for ride requests](https://github.com/ArashYounesi/TRide)
 - [One-time 2FA password generator](https://github.com/UselessStudio/TeleOTP)
+- [Event Telegram Mini-App Demo](https://github.com/mbasaglia/mini_apps)
 - [Notes and to-do lists](https://github.com/deptyped/notepher-bot)
 - [Paint Bot](https://github.com/hip-hyena/PaintBot)
 - [Call scheduling](https://github.com/arterialist/Callegram)
@@ -104,6 +106,7 @@ A curated list of awesome things related to Telegram Mini Apps (TMA).
 - [Step-by-Step guide to build a Telegram Chatbot with a simple WebApp UI using Python](https://medium.com/@calixtemayoraz/step-by-step-guide-to-build-a-telegram-chatbot-with-a-simple-webapp-ui-using-python-44dca453522f)
 - [Telegram Mini App with React and Next.js](https://dev.to/bitofuniverse/telegram-web-app-with-react-and-nextjs-440i)
 - [Creation of Telegram Mini Apps and interaction with them in telegram bots](https://prog.world/creation-of-telegram-web-apps-and-interaction-with-them-in-telegram-bots/)
+- [Telegram Mini Apps Issues](https://github.com/Telegram-Mini-Apps/issues)
 - 🇷🇺 [Создание Telegram Mini Apps и взаимодействие с ними в телеграм ботах](https://habr.com/ru/articles/666278/)
 
 
