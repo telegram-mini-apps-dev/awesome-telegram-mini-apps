@@ -54,7 +54,7 @@ A curated list of awesome things related to Telegram Mini Apps (TMA).
 - [@ton-connect/sdk](https://github.com/ton-connect/sdk) — Implementation of the TonConnect protocol
 - [Flutter Telegram Mini App](https://pub.dev/documentation/flutter_telegram_web_app/latest/)
 - [Typings for Telegram Mini Apps](https://github.com/DavisDmitry/telegram-webapps/tree/master)
-- [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang)
+- [Library for TMA init data on Go](https://github.com/Telegram-Mini-Apps/init-data-golang)
 
 
 ### Boilerplates
