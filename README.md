@@ -22,14 +22,15 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## Resources
 
+<!-- lint ignore double-link -->
+
 - [Official Guide](https://core.telegram.org/bots/webapps)
-- [Changelog](https://core.telegram.org/bots/webapps#recent-changes)
 - [Community Guide](https://docs.telegram-mini-apps.com)
 - [TON Documentation Guide](https://docs.ton.org/develop/dapps/twa)
 - [Telegram Mini Apps Issues](https://github.com/Telegram-Mini-Apps/issues)
 - [Trending Apps](https://t.me/trendingapps)
 
-### Articles
+## Articles
 
 ###### English
 
@@ -71,6 +72,8 @@ They can take advantage of many features out of the box, including seamless auth
 - [@twa-dev/Mark42](https://github.com/twa-dev/Mark42) - A simple, lightweight, and tree-shakable UI library for Telegram Mini Apps.
 
 ## Libraries
+
+<!-- lint ignore double-link -->
 
 - [@twa-dev/SDK](https://github.com/twa-dev/SDK) - The [WebApp API](https://core.telegram.org/bots/webapps#initializing-mini-apps) as an npm package.
 - [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) - A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.
