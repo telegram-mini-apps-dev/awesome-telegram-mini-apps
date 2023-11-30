@@ -116,6 +116,11 @@ They can take advantage of many features out of the box, including seamless auth
 
 - [TON Play](https://tonplay.io) - A toolkit that allows game developers to leverage the power of Telegram.
 - [Telegram Shop Platform](https://telegramwebapps.ru)
+- [@wallet](https://wallet.tg) - Store, send and exchange crypto assets inside Telegram.
+- [Tribute](https://tribute.t.me) - Monetize content through donations and subscriptions.
+- [Community](https://community_bot.t.me) - Telegram-native toolset for communities.
+- [Fanton Fantasy Football](https://fantongamebot.t.me)
+- [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
 
 ## Communities
 
