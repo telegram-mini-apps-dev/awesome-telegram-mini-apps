@@ -11,7 +11,6 @@ They can take advantage of many features out of the box, including seamless auth
 
 - [Resources](#resources)
 - [Articles](#articles)
-- [Talks](#talks)
 - [Videos](#videos)
 - [UI Kits](#ui-kits)
 - [Libraries](#libraries)
@@ -32,37 +31,15 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## Articles
 
-###### English
+> Resources in other languages can be found [here](https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps/blob/main/resources_other_languages.md#resources-in-other-languages).
 
 - [Step-by-Step guide to build a Telegram Chatbot with a simple WebApp UI using Python](https://medium.com/@calixtemayoraz/step-by-step-guide-to-build-a-telegram-chatbot-with-a-simple-webapp-ui-using-python-44dca453522f)
 - [Telegram Mini App with React and Next.js](https://dev.to/bitofuniverse/telegram-web-app-with-react-and-nextjs-440i)
 - [Creation of Telegram Mini Apps and interaction with them in Telegram bots](https://prog.world/creation-of-telegram-web-apps-and-interaction-with-them-in-telegram-bots)
 
-###### Russian
-
-- [Создание Telegram Mini Apps и взаимодействие с ними в Телеграм ботах](https://habr.com/ru/articles/666278)
-
-## Talks
-
-- [Telegram Web Apps: web applications inside Telegram (Russian)](https://holyjs.ru/en/talks/7ce6dd405449413daf154fcd6a476fdb)
-
 ## Videos
 
-###### English
-
 - [Telegram Mini Apps: tips and hacks | Arthur Stambultsyan](https://www.youtube.com/watch?v=amvZy9hzAic&t=2476)
-
-###### Russian
-
-- [СОЗДАЕМ упрощенный DURGER KING](https://youtu.be/O1ZRJXKBa4U)
-- [Web app TELEGRAM Бот на node js и React](https://youtu.be/MzO-0IYkZMU)
-- [Как открыть WebApp и запустить магазин в Телеграм канале](https://youtu.be/nznt4-J-oHs)
-- [Web App Telegram Bot (React + Telegram Bot) + Bot Revolution](https://youtu.be/FCHNnZ2KDUQ)
-- [Создаем Telegram бота](https://www.youtube.com/watch?v=-m5cUud_VzI&list=PLN0sMOjX-lm5BMwTm-llmJuA50umZJOsL)
-
-###### Ukrainian
-
-- [Web App in the Telegram bot](https://youtu.be/Gu2BB4G5Gdg)
 
 ## UI Kits
 
