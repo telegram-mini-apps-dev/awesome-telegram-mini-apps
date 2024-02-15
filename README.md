@@ -43,9 +43,8 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## UI Kits
 
-- [Telegram Graphics Figma file](https://www.figma.com/community/file/1248595286803212338/telegram-graphics)
-- [@tonconnect/ui-react](https://www.npmjs.com/package/@tonconnect/ui-react)
-- [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui)
+- [Telegram Graphics Figma file](https://www.figma.com/community/file/1248595286803212338/telegram-graphics) - Design inspirations to fasten your app's development.
+- [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) - Authorize your app's users with their TON wallets.
 - [@twa-dev/Mark42](https://github.com/twa-dev/Mark42) - A simple, lightweight, and tree-shakable UI library for Telegram Mini Apps.
 
 ## Libraries
@@ -54,9 +53,10 @@ They can take advantage of many features out of the box, including seamless auth
 
 - [@twa-dev/SDK](https://github.com/twa-dev/SDK) - The [WebApp API](https://core.telegram.org/bots/webapps#initializing-mini-apps) as an npm package.
 - [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) - A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.
-- [flutter_telegram_web](https://pub.dev/documentation/flutter_telegram_web_app/latest)
+- [flutter_telegram_web](https://pub.dev/documentation/flutter_telegram_web_app/latest) - Build Telegram Mini Apps with Flutter.
 - [Typings for Telegram Mini Apps](https://github.com/DavisDmitry/telegram-webapps/tree/master) - TypeScript typings for the WebApp API.
 - [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang) - Init data validation utilities for Go.
+- [react-telegram-web-app](https://github.com/vkruglikov/react-telegram-web-app) - React hooks and components for building the WebApp API.
 
 ## Templates
 
@@ -79,20 +79,17 @@ They can take advantage of many features out of the box, including seamless auth
 - [@PaintBot](https://github.com/hip-hyena/PaintBot) - Collaboratively create small hand-drawn images.
 - [MedSync](https://github.com/Latand/MedSyncWebApp) - Healthcare booking app concept.
 - [DPXWallet](https://github.com/erfanmola/DPXWallet) - Crypto wallet app concept.
-- [Calculator](https://github.com/ArashYounesi/TCalculator)
-- [Wishlist](https://github.com/grulex/telegram-wishlist-miniapp)
-- [React Example](https://github.com/vkruglikov/react-telegram-web-app)
-- [Shop Example](https://github.com/TheCymond/Telegram_Web_App)
-- [Next.js Example](https://github.com/mauriciobraz/next.js-telegram-webapp)
-- [aiogram-aiohttp Example](https://github.com/abdullaev388/Telegram-Web-App)
-- [Datetime Picker](https://github.com/Expented/tgdtp)
-- [Python Backend Example](https://github.com/poshl000/telegram-webapp-bot)
-- [API Interactions Example](https://github.com/revenkroz/telegram-web-app-bot-example)
+- [Calculator](https://github.com/ArashYounesi/TCalculator) - Calculator app concept.
+- [Wishlist](https://github.com/grulex/telegram-wishlist-miniapp) - Organize your wishes.
+- [Next.js Example](https://github.com/mauriciobraz/next.js-telegram-webapp) - Example for developing using Next.js.
+- [aiogram-aiohttp Example](https://github.com/abdullaev388/Telegram-Web-App) - Example for developing using aiogram and aiohttp.
+- [Datetime Picker](https://github.com/Expented/tgdtp) - Date and time picker component.
+- [Python Backend Example](https://github.com/poshl000/telegram-webapp-bot) - Example for using Python for the backend.
 
 ## Products
 
 - [TON Play](https://tonplay.io) - A toolkit that allows game developers to leverage the power of Telegram.
-- [Telegram Shop Platform](https://telegramwebapps.ru)
+- [Telegram Shop Platform](https://telegramwebapps.ru) - Sell your products inside Telegram.
 - [@wallet](https://wallet.tg) - Store, send and exchange crypto assets inside Telegram.
 - [Tribute](https://tribute.t.me) - Monetize content through donations and subscriptions.
 - [Community](https://community_bot.t.me) - Telegram-native toolset for communities.
@@ -101,5 +98,6 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## Communities
 
-- [Telegram Chat](https://t.me/twa_dev)
-- [twa-dev GitHub](https://github.com/twa-dev)
+- [Telegram Chat](https://t.me/twa_dev) - Get help from our friendly community.
+- [twa-dev GitHub](https://github.com/twa-dev) - A set of tools that helps you develop your apps in a fast and convenient way.
+
