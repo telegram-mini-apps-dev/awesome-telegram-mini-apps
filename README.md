@@ -70,12 +70,14 @@ They can take advantage of many features out of the box, including seamless auth
 ## Projects
 
 - [Telebook](https://github.com/neSpecc/telebook) - Hotel booking app concept.
+- [StickerWiz](https://github.com/TatianaFomina/stkrz_bot) - Telegram MiniApp that allows to create personalised sticker packs
 - [fStik](https://github.com/fstik-app/catalog) - Telegram sticker catalog.
 - [ChessNowBot](https://github.com/Quatern1on/ChessNowBot) - Play chess live with other Telegram users.
 - [TRide](https://github.com/ArashYounesi/TRide) - Ride booking app concept.
 - [TeleOTP](https://github.com/UselessStudio/TeleOTP) - A one-time password generator.
 - [Mini Events](https://github.com/mbasaglia/mini_apps) - Python framework to create event-based Mini Apps.
 - [Notepher](https://github.com/deptyped/notepher-bot) - A note taking app synced with the Telegram cloud.
+- [MiniWoo](https://github.com/mini-woo/mini-woo) - A Telegram Mini App for WooCommerce
 - [@PaintBot](https://github.com/hip-hyena/PaintBot) - Collaboratively create small hand-drawn images.
 - [MedSync](https://github.com/Latand/MedSyncWebApp) - Healthcare booking app concept.
 - [DPXWallet](https://github.com/erfanmola/DPXWallet) - Crypto wallet app concept.
