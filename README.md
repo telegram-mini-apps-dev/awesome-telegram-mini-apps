@@ -90,7 +90,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## Products
 
-- [LingoPraxis](https://t.me/lingopractices_bot) - English Speaking Club Mini App.
+- [LingoPraxis](https://t.me/lingopractices_bot) - English Speaking Club.
 - [TON Play](https://tonplay.io) - A toolkit that allows game developers to leverage the power of Telegram.
 - [Telegram Shop Platform](https://telegramwebapps.ru) - Sell your products inside Telegram.
 - [@wallet](https://wallet.tg) - Store, send and exchange crypto assets inside Telegram.
