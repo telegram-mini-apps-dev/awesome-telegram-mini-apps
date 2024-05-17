@@ -98,6 +98,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [Community](https://community_bot.t.me) - Telegram-native toolset for communities.
 - [Fanton Fantasy Football](https://fantongamebot.t.me)
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
+- [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
 
 ## Communities
 
