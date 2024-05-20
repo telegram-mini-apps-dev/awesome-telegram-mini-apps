@@ -43,6 +43,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## UI Kits
 
+- [Telegram UI](https://github.com/Telegram-Mini-Apps/TelegramUI) - Telegram UI kit equips you with a variety of pre-designed components and tools to help you quickly develop high-quality Telegram applications.
 - [Telegram Graphics Figma file](https://www.figma.com/community/file/1248595286803212338/telegram-graphics) - Design inspirations to fasten your app's development.
 - [@tonconnect/ui](https://github.com/ton-connect/sdk/tree/main/packages/ui) - Authorize your app's users with their TON wallets.
 - [@twa-dev/Mark42](https://github.com/twa-dev/Mark42) - A simple, lightweight, and tree-shakable UI library for Telegram Mini Apps.
