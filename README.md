@@ -59,6 +59,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang) - Init data validation utilities for Go.
 - [react-telegram-web-app](https://github.com/vkruglikov/react-telegram-web-app) - React hooks and components for building the WebApp API.
 - [Cloud Storage Dedub](https://github.com/websashka/eruda-tma-cloudstorage) - Eruda plugin for debug Cloud Storage in Telegram Mini apps.
+- [telegram-webapp-auth](https://github.com/swimmwatch/telegram-webapp-auth) - Init data validation utilities for Python.
 
 ## Templates
 
@@ -100,6 +101,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [Community](https://community_bot.t.me) - Telegram-native toolset for communities.
 - [Fanton Fantasy Football](https://fantongamebot.t.me)
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
+- [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
 
 ## Communities
 
