@@ -74,6 +74,7 @@ They can take advantage of many features out of the box, including seamless auth
 ## Projects
 
 - [Telebook](https://github.com/neSpecc/telebook) - Hotel booking app concept.
+- [NobleTruths](https://github.com/MaximStone/eight-truths) - Habit daily journal for practitioners
 - [StickerWiz](https://github.com/TatianaFomina/stkrz_bot) - Telegram MiniApp that allows to create personalised sticker packs.
 - [fStik](https://github.com/fstik-app/catalog) - Telegram sticker catalog.
 - [ChessNowBot](https://github.com/Quatern1on/ChessNowBot) - Play chess live with other Telegram users.
