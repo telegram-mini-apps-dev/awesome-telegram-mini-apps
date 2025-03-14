@@ -70,6 +70,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [@ton-defi-org/tonstarter-twa](https://github.com/ton-defi-org/tonstarter-twa)
 - [Telegram Onboarding Kit](https://github.com/Easterok/telegram-onboarding-kit)
 - [Turborepo-based fullstack monorepo with TON integration](https://github.com/DKeken/turborepo-ton-trpc)
+- [TMA Starter Kit](https://github.com/devflex-pro/tma-starter-kit)
 
 ## Projects
 
