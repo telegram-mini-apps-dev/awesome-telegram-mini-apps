@@ -103,6 +103,8 @@ They can take advantage of many features out of the box, including seamless auth
 - [Fanton Fantasy Football](https://fantongamebot.t.me)
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
+- [Invoice Generator](https://t.me/freelance_inv_bot) - Create and send professional invoices to clients directly inside Telegram.
+- [Squad Signal](https://t.me/squad_signal_bot) - Daily prediction game: call crypto moves and meme trends before they happen. Flash rounds, squad leaderboards, Telegram Stars rewards.
 
 ## Communities
 
