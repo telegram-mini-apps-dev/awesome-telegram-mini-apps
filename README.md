@@ -99,6 +99,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [Telegram Shop Platform](https://telegramwebapps.ru) - Sell your products inside Telegram.
 - [@wallet](https://wallet.tg) - Store, send and exchange crypto assets inside Telegram.
 - [Tribute](https://tribute.t.me) - Monetize content through donations and subscriptions.
+- [BookClass](https://t.me/BookClassBot) - Class booking Mini App for studios, trainers, and instructors of any kind.
 - [Community](https://community_bot.t.me) - Telegram-native toolset for communities.
 - [Fanton Fantasy Football](https://fantongamebot.t.me)
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
