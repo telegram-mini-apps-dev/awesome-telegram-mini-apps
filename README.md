@@ -103,6 +103,8 @@ They can take advantage of many features out of the box, including seamless auth
 - [Fanton Fantasy Football](https://fantongamebot.t.me)
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
+- [Daily Tarot](https://t.me/thisisthedailytarotbot) - Daily tarot card pull with Mini App, Rider-Waite deck (public domain), 7 languages, Telegram Stars payments.
+
 
 ## Communities
 
