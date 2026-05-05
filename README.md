@@ -56,6 +56,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [@twa.js](https://github.com/Telegram-Web-Apps/twa.js) - A monorepository that contains everything you need to develop Telegram Mini Apps in TypeScript.
 - [flutter_telegram_web](https://pub.dev/documentation/flutter_telegram_web_app/latest) - Build Telegram Mini Apps with Flutter.
 - [Typings for Telegram Mini Apps](https://github.com/DavisDmitry/telegram-webapps/tree/master) - TypeScript typings for the WebApp API.
+- [Types for Telegram Web Apps (TWA) SDK](https://github.com/fullpipe/twa-sdk-types) - Types for Telegram Web Apps (TWA) SDK. Fast updates.
 - [init-data-golang](https://github.com/Telegram-Mini-Apps/init-data-golang) - Init data validation utilities for Go.
 - [react-telegram-web-app](https://github.com/vkruglikov/react-telegram-web-app) - React hooks and components for building the WebApp API.
 - [Cloud Storage Dedub](https://github.com/websashka/eruda-tma-cloudstorage) - Eruda plugin for debug Cloud Storage in Telegram Mini apps.
