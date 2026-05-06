@@ -11,6 +11,7 @@
 
 - [Создание Telegram Mini Apps и взаимодействие с ними в Телеграм ботах](https://habr.com/ru/articles/666278)
 - [Telegram Web Apps: web applications inside Telegram](https://holyjs.ru/en/talks/7ce6dd405449413daf154fcd6a476fdb)
+- [От кнопки до продакшена: как мы делаем Telegram Mini Apps](https://habr.com/ru/companies/doubletapp/articles/917286/)
 
 ## Videos
 

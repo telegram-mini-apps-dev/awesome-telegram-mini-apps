@@ -36,6 +36,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [Step-by-Step guide to build a Telegram Chatbot with a simple WebApp UI using Python](https://medium.com/@calixtemayoraz/step-by-step-guide-to-build-a-telegram-chatbot-with-a-simple-webapp-ui-using-python-44dca453522f)
 - [Telegram Mini App with React and Next.js](https://dev.to/bitofuniverse/telegram-web-app-with-react-and-nextjs-440i)
 - [Creation of Telegram Mini Apps and interaction with them in Telegram bots](https://prog.world/creation-of-telegram-web-apps-and-interaction-with-them-in-telegram-bots)
+- [From a Button to Production: How We Build Telegram Mini Apps](https://doubletapp.medium.com/from-a-button-to-production-how-we-build-telegram-mini-apps-c73e0c3a72c6)
 
 ## Videos
 
