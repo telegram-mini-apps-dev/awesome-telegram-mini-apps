@@ -28,6 +28,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [TON Documentation Guide](https://docs.ton.org/develop/dapps/twa)
 - [Telegram Mini Apps Issues](https://github.com/Telegram-Mini-Apps/issues)
 - [Trending Apps](https://t.me/trendingapps)
+- [FindMini.app](https://www.findmini.app/)
 
 ## Articles
 
