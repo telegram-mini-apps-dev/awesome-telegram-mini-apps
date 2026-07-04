@@ -93,6 +93,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [Datetime Picker](https://github.com/Expented/tgdtp) - Date and time picker component.
 - [Python Backend Example](https://github.com/poshl000/telegram-webapp-bot) - Example for using Python for the backend.
 - [MemoCard](https://github.com/kubk/memo-card) - Flashcard app for improving memory with spaced repetition. 
+- [Cosmic Bugs](https://github.com/keyfire/fresh-space-invaders) - A dependency-free, single-file HTML5 Canvas arcade shooter (Space Invaders style) with power-ups, bosses, and RU/EN/ES/PT/TR localization.
 
 ## Products
 
