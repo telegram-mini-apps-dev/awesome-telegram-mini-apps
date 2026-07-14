@@ -104,6 +104,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [Fanton Fantasy Football](https://fantongamebot.t.me)
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
+- [Rignite](https://t.me/RigniteBot) - A mining tap-to-earn game where you mine RGT and withdraw RGNT, a real TON jetton tradable on STON.fi.
 - [Receipt AI Split](https://t.me/ReceiptAISplit_bot/receiptaisplit) - AI splits restaurant bills in seconds. OCR + GPT-4o Vision, fiscal QR fast-path for Russian receipts, SBP QR for bank transfers, groups support, full RU/EN localization, light/dark themes.
 
 ## Communities
