@@ -103,6 +103,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [Community](https://community_bot.t.me) - Telegram-native toolset for communities.
 - [Fanton Fantasy Football](https://fantongamebot.t.me)
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
+- [Rignite](https://t.me/RigniteBot) - Mining game on TON: tap to mine, grow a colony of 48 buildings, and withdraw the RGNT jetton to your wallet.
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
 - [Receipt AI Split](https://t.me/ReceiptAISplit_bot/receiptaisplit) - AI splits restaurant bills in seconds. OCR + GPT-4o Vision, fiscal QR fast-path for Russian receipts, SBP QR for bank transfers, groups support, full RU/EN localization, light/dark themes.
 
