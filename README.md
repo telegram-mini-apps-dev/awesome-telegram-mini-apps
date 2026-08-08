@@ -105,9 +105,9 @@ They can take advantage of many features out of the box, including seamless auth
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
 - [Receipt AI Split](https://t.me/ReceiptAISplit_bot/receiptaisplit) - AI splits restaurant bills in seconds. OCR + GPT-4o Vision, fiscal QR fast-path for Russian receipts, SBP QR for bank transfers, groups support, full RU/EN localization, light/dark themes.
+- [Pointify](https://t.me/pointify_official_bot) - Complete eligible community activities, use daily codes and referrals, and track in-platform points and leaderboard progress.
 
 ## Communities
 
 - [Telegram Chat](https://t.me/twa_dev) - Get help from our friendly community.
 - [twa-dev GitHub](https://github.com/twa-dev) - A set of tools that helps you develop your apps in a fast and convenient way.
-
