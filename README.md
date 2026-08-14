@@ -105,6 +105,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
 - [Receipt AI Split](https://t.me/ReceiptAISplit_bot/receiptaisplit) - AI splits restaurant bills in seconds. OCR + GPT-4o Vision, fiscal QR fast-path for Russian receipts, SBP QR for bank transfers, groups support, full RU/EN localization, light/dark themes.
+- [Daybound](https://t.me/daybound_bot/daybound) - Tracks your days of presence per country for Schengen 90/180 compliance, with GPS auto-detection and proactive alerts. RU/EN/UK, light and dark themes.
 
 ## Communities
 
