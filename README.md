@@ -105,6 +105,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
 - [Receipt AI Split](https://t.me/ReceiptAISplit_bot/receiptaisplit) - AI splits restaurant bills in seconds. OCR + GPT-4o Vision, fiscal QR fast-path for Russian receipts, SBP QR for bank transfers, groups support, full RU/EN localization, light/dark themes.
+- [NOMS](https://t.me/nomsaibot?start=awesometma) - AI food tracker inside Telegram. Log a meal by photo, voice message or text and get calories, protein, fat, carbs and fiber back in seconds. Available in 13 languages.
 
 ## Communities
 
