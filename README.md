@@ -105,6 +105,16 @@ They can take advantage of many features out of the box, including seamless auth
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
 - [Receipt AI Split](https://t.me/ReceiptAISplit_bot/receiptaisplit) - AI splits restaurant bills in seconds. OCR + GPT-4o Vision, fiscal QR fast-path for Russian receipts, SBP QR for bank transfers, groups support, full RU/EN localization, light/dark themes.
+- [WhisperLock](https://t.me/WhisperLockBot?startapp=awesome) - Post a locked message inline into any chat that only the intended person can open.
+- [Nudge](https://t.me/NudgeRemindBot?startapp=awesome) - Chat reminders on a per-user timezone with six ways to say when.
+- [AnonInbox](https://t.me/AnonInboxProBot?startapp=awesome) - A personal link where strangers can message you anonymously and you reply from an inbox.
+- [SplitTabs](https://t.me/SplitTabsBot?startapp=awesome) - Group expense ledger with balances, minimal settlement, and CSV export.
+- [HabitStreak](https://t.me/HabitStreakProBot?startapp=awesome) - Tap-to-check-in habit tracker with streaks and an hourly reminder cron.
+- [Event RSVP](https://t.me/EventRSVPProBot?startapp=awesome) - Post an event card with Going/Maybe/Can't buttons and get automatic 1-hour reminders.
+- [AnonSay](https://t.me/AnonSayProBot?startapp=awesome) - Post anonymously into a Telegram group through the bot, with admin reveal and ban tools.
+- [Icebreaker Daily](https://t.me/IcebreakerDailyBot?startapp=awesome) - Posts a daily conversation-starter question in a Telegram group.
+- [Secret Santa](https://t.me/SantaDrawProBot?startapp=awesome) - Runs a Secret Santa gift exchange for a group: join, draw, and DM each participant their match.
+- [TinyTelegramTools](https://t.me/TinyTelegramToolsBot) - A directory hub for a small fleet of single-purpose Telegram utility bots, with Direct-Link Mini Apps for each.
 
 ## Communities
 
