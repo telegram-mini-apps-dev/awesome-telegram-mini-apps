@@ -105,6 +105,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
 - [Receipt AI Split](https://t.me/ReceiptAISplit_bot/receiptaisplit) - AI splits restaurant bills in seconds. OCR + GPT-4o Vision, fiscal QR fast-path for Russian receipts, SBP QR for bank transfers, groups support, full RU/EN localization, light/dark themes.
+- [Tiny Telegram Tools](https://t.me/TinyTelegramToolsBot) - Hub bot with a suite of Mini App tools: anonymous inbox, reminders & countdowns, group expenses, habit tracking, and events. Free tier, RU/EN. [Website](https://tg.zovo.one)
 
 ## Communities
 
