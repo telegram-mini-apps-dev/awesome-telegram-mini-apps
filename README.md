@@ -105,6 +105,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
 - [Receipt AI Split](https://t.me/ReceiptAISplit_bot/receiptaisplit) - AI splits restaurant bills in seconds. OCR + GPT-4o Vision, fiscal QR fast-path for Russian receipts, SBP QR for bank transfers, groups support, full RU/EN localization, light/dark themes.
+- [GreedyArt](https://t.me/greedyart_bot?startapp=c_idea015) - Authored AI photo templates in Telegram: pick a style, upload a selfie, get your photo in a minute.
 
 ## Communities
 
