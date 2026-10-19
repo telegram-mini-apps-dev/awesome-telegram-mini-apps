@@ -105,6 +105,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
 - [Receipt AI Split](https://t.me/ReceiptAISplit_bot/receiptaisplit) - AI splits restaurant bills in seconds. OCR + GPT-4o Vision, fiscal QR fast-path for Russian receipts, SBP QR for bank transfers, groups support, full RU/EN localization, light/dark themes.
+- [Agent One](https://t.me/AgentOne01Bot) - An AI assistant for your Telegram and Discord group chats — memes and photos explained, quizzes in Telegram, homework help and debates settled, with a memory for every group.
 
 ## Communities
 
