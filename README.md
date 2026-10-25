@@ -106,6 +106,8 @@ They can take advantage of many features out of the box, including seamless auth
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
 - [Receipt AI Split](https://t.me/ReceiptAISplit_bot/receiptaisplit) - AI splits restaurant bills in seconds. OCR + GPT-4o Vision, fiscal QR fast-path for Russian receipts, SBP QR for bank transfers, groups support, full RU/EN localization, light/dark themes.
 
+- [DAO Generator](https://t.me/Dao_gen_bot) - Create coin-weighted DAOs on TON from Telegram: on-chain votes and a shared treasury.
+
 ## Communities
 
 - [Telegram Chat](https://t.me/twa_dev) - Get help from our friendly community.
