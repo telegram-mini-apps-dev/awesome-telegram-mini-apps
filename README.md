@@ -74,6 +74,7 @@ They can take advantage of many features out of the box, including seamless auth
 
 ## Projects
 
+- [CryptoBoss](https://t.me/AppsArh_bot) - Daily crypto quiz game with live prices, bets and leaderboards.
 - [Telebook](https://github.com/neSpecc/telebook) - Hotel booking app concept.
 - [StickerWiz](https://github.com/TatianaFomina/stkrz_bot) - Telegram MiniApp that allows to create personalised sticker packs.
 - [fStik](https://github.com/fstik-app/catalog) - Telegram sticker catalog.
