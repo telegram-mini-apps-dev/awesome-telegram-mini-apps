@@ -102,6 +102,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [Tribute](https://tribute.t.me) - Monetize content through donations and subscriptions.
 - [Community](https://community_bot.t.me) - Telegram-native toolset for communities.
 - [Fanton Fantasy Football](https://fantongamebot.t.me)
+- [AI Football Predictor](https://t.me/ai_football_predictorbot/app) - Win, draw and loss probabilities for every football match in 25+ competitions, checked against real results. Live scores and predicted league tables. Mini App + [website](https://aifootpredictor.com).
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
 - [Receipt AI Split](https://t.me/ReceiptAISplit_bot/receiptaisplit) - AI splits restaurant bills in seconds. OCR + GPT-4o Vision, fiscal QR fast-path for Russian receipts, SBP QR for bank transfers, groups support, full RU/EN localization, light/dark themes.
