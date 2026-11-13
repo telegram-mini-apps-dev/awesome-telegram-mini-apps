@@ -60,6 +60,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [react-telegram-web-app](https://github.com/vkruglikov/react-telegram-web-app) - React hooks and components for building the WebApp API.
 - [Cloud Storage Dedub](https://github.com/websashka/eruda-tma-cloudstorage) - Eruda plugin for debug Cloud Storage in Telegram Mini apps.
 - [telegram-webapp-auth](https://github.com/swimmwatch/telegram-webapp-auth) - Init data validation utilities for Python.
+- [@cleanads/sdk](https://www.npmjs.com/package/@cleanads/sdk) - Typed SDK for rewarded, interstitial and banner ads in Mini Apps, with React hooks in @cleanads/react.
 
 ## Templates
 
