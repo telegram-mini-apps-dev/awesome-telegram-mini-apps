@@ -105,6 +105,7 @@ They can take advantage of many features out of the box, including seamless auth
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
 - [Receipt AI Split](https://t.me/ReceiptAISplit_bot/receiptaisplit) - AI splits restaurant bills in seconds. OCR + GPT-4o Vision, fiscal QR fast-path for Russian receipts, SBP QR for bank transfers, groups support, full RU/EN localization, light/dark themes.
+- [Seraph Legion](https://t.me/SeraphLegionBot/play) - Gothic angel-collector RPG with deterministic turn-based battles, a hand-painted campaign and a weekly shared-world siege.
 
 ## Communities
 
