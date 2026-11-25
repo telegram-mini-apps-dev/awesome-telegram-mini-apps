@@ -105,7 +105,8 @@ They can take advantage of many features out of the box, including seamless auth
 - [PlayDeck](https://playdeckbot.t.me) - The ultimate Telegram game catalog.
 - [Connecton VPN](https://ConnectonBot.t.me) - Fast, anonymous, and user-friendly VPN.
 - [Receipt AI Split](https://t.me/ReceiptAISplit_bot/receiptaisplit) - AI splits restaurant bills in seconds. OCR + GPT-4o Vision, fiscal QR fast-path for Russian receipts, SBP QR for bank transfers, groups support, full RU/EN localization, light/dark themes.
-
+- [SubRadar](https://t.me/SubRadarAppBot?start=github) - Telegram Mini App with a daily Deals Radar (free subscriptions, free games & promo links; 3 days free + 3 days per friend via referral) plus a no-bank subscription & trial tracker.
+  
 ## Communities
 
 - [Telegram Chat](https://t.me/twa_dev) - Get help from our friendly community.
